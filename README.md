@@ -24,9 +24,7 @@ This project highlights **CarPlay template APIs**, **scene management**, and **n
 ---
 
 ## 📸 Screenshots
-*(Add screenshots from CarPlay Simulator here — e.g., list of spots, route preview, navigation screen)*  
 
 ```markdown
-![List Screen](screenshots/list.png)
-![Route Preview](screenshots/route.png)
-![Navigation](screenshots/navigation.png)
+<img width="1440" height="900" alt="Screenshot 2025-08-28 at 10 54 30 PM" src="https://github.com/user-attachments/assets/27127b61-3e18-4982-8deb-2e63ae5d5156" />
+
